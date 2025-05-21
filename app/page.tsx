@@ -1,9 +1,12 @@
-import React from 'react'
+import React from "react";
 
 const Home = () => {
   return (
-    <div>Siehh</div>
-  )
-}
+    <>
+      <h1 className="h1-bold">Siehh</h1>
+      <h1 className="h1-bold font-space-grotesk">Siehh</h1>
+    </>
+  );
+};
 
-export default Home
+export default Home;
